@@ -1,0 +1,4 @@
+// enum result{
+//     Ok(),
+//     Err()
+// }
